@@ -1,5 +1,7 @@
 ---
 title: 标题
+classification: tutorial
+section: basic
 ---
 
 在 Markdown 中，标题有两种写法：

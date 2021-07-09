@@ -1,5 +1,7 @@
 ---
 title: 段落
+classification: tutorial
+section: basic
 ---
 
 ## 语法描述

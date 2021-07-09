@@ -1,5 +1,7 @@
 ---
 title: 概述
+classification: tutorial
+section: basic
 ---
 
 Markdown 基础语法是指 [John Gruber][markdownCreator]（Markdown 创始人） 在 2004 年发布的语法。
