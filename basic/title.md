@@ -19,7 +19,7 @@ section: basic
 
 ## 示例
 
-```md
+```markdown
 # 一级标题
 
 ### 三级标题
@@ -51,7 +51,7 @@ section: basic
 
 ## 示例
 
-```md
+```markdown
 一级标题
 =======
 
