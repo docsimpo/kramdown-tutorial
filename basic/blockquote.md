@@ -17,7 +17,7 @@ Markdown 可以引用单段文本，也可以引用多段文本。
 
 ## 示例
 
-```md
+```markdown
 > 岑夫子，丹丘生，将进酒，杯莫停，
 > 与君歌一曲，请君为我倾耳听！
 ```
@@ -28,8 +28,8 @@ Markdown 可以引用单段文本，也可以引用多段文本。
 </blockquote>
 ```
 
-<div class="exmp">
-  <blockquote>
+<div>
+  <blockquote class="exmp">
     <p>岑夫子，丹丘生，将进酒，杯莫停！<br>
       与君歌一曲，请君为我倾耳听！</p>
   </blockquote>
@@ -47,7 +47,7 @@ Markdown 可以引用单段文本，也可以引用多段文本。
 
 ## 示例
 
-```md
+```markdown
 > 君不见黄河之水天上来，奔流到海不复回！[空格][空格]
 > 君不见高堂明镜悲白发，朝如青丝暮成雪。
 >
@@ -64,8 +64,8 @@ Markdown 可以引用单段文本，也可以引用多段文本。
 </blockquote>
 ```
 
-<div class="exmp">
-  <blockquote>
+<div>
+  <blockquote class="exmp">
     <p>君不见黄河之水天上来，奔流到海不复回！<br>
       君不见高堂明镜悲白发，朝如青丝暮成雪。</p>
     <p>人生得意须尽欢，莫使金樽空对月。<br>
@@ -81,7 +81,7 @@ Markdown 可以引用单段文本，也可以引用多段文本。
 
 ## 示例
 
-```md
+```markdown
 > 宝玉一面想，一面刹住脚步，听她哭道是：
 >
 >> 花谢花飞花满天，红消香断有谁怜?[空格][空格]
@@ -99,8 +99,8 @@ Markdown 可以引用单段文本，也可以引用多段文本。
 </blockquote>
 ```
 
-<div class="exmp">
-  <blockquote>
+<div>
+  <blockquote class="exmp">
     <p>宝玉一面想，一面刹住脚步，听她哭道是：</p>
     <blockquote>
       <p>花谢花飞花满天，红消香断有谁怜?
@@ -122,7 +122,7 @@ Markdown 可以引用单段文本，也可以引用多段文本。
 
 ## 示例
 
-```md
+```markdown
 > # 李白的诗作
 >
 > 李白，字太白，号青莲居士，素有“诗仙”之称。
@@ -144,8 +144,8 @@ Markdown 可以引用单段文本，也可以引用多段文本。
 </blockquote>
 ```
 
-<div class="exmp">
-  <blockquote>
+<div>
+  <blockquote class="exmp">
     <h2>李白的诗作</h2>
     <p>李白，字太白，号青莲居士，素有“诗仙”之称。</p>
     <ul>
