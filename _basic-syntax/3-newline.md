@@ -1,6 +1,5 @@
 ---
 title: 断行
-section: basic
 ---
 
 ## 语法描述
@@ -21,6 +20,8 @@ section: basic
 ```
 
 <div class="exmp">
-  <p>落霞与孤鹜齐飞，<br> 秋水共长天一色。</p>
+  <div class="exmp-container">
+    <p>落霞与孤鹜齐飞，<br> 秋水共长天一色。</p>
+  </div>
 </div>
 

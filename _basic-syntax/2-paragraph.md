@@ -1,6 +1,5 @@
 ---
 title: 段落
-section: basic
 ---
 
 ## 语法描述
@@ -23,7 +22,9 @@ section: basic
 ```
 
 <div class="exmp">
-  <p>使用 Markdown 写文档非常方便。</p>
-  <p>公众号文章、学习笔记、网站教程，都可以用它写。我现在几乎已经离不开它了。</p>
+  <div class="exmp-container">
+    <p>使用 Markdown 写文档非常方便。</p>
+    <p>公众号文章、学习笔记、网站教程，都可以用它写。我现在几乎已经离不开它了。</p>
+  </div>
 </div>
 

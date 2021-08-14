@@ -1,0 +1,5 @@
+{
+  "markdown.extension.toc.levels": "1..1",
+  "markdown.extension.toc.orderedList": true,
+  "markdown.extension.math.enabled": false
+}
