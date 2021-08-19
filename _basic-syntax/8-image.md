@@ -25,12 +25,6 @@ title: 图片
 ![印度尼西亚萨母巴岛上的红树林](https://img.peapix.com/f0b899e247da4e6da5a7ac7938f3dc05_480.jpg "漂亮的红树林")
 ```
 
-```html
-<p>
-  <img src="https://img.peapix.com/f0b899e247da4e6da5a7ac7938f3dc05_480.jpg" alt="印度尼西亚萨母巴岛上的红树林" title="漂亮的红树林">
-</p>
-```
-
 <div class='exmp'>
   <div class='exmp-container'>
     <p>
@@ -38,6 +32,12 @@ title: 图片
     </p>
   </div>
 </div>
+
+```html
+<p>
+  <img src="https://img.peapix.com/f0b899e247da4e6da5a7ac7938f3dc05_480.jpg" alt="印度尼西亚萨母巴岛上的红树林" title="漂亮的红树林">
+</p>
+```
 
 # 脚注式
 

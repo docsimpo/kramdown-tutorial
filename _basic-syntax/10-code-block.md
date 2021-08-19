@@ -23,18 +23,18 @@ title: 代码块
     let myVariable = 123;
 ```
 
-```html
-<p>这是一段 JavaScript 代码：</p>
-<pre><code>let myVariable = 123;
-</code></pre>
-```
-
 <div class='exmp'>
   <div class='exmp-container'>
     <p>这是一段 JavaScript 代码：</p>
     <pre><code>let myVariable = 123;</code></pre>
   </div>
 </div>
+
+```html
+<p>这是一段 JavaScript 代码：</p>
+<pre><code>let myVariable = 123;
+</code></pre>
+```
 
 # 含有与字符和尖括号的代码
 

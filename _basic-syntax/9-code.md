@@ -22,15 +22,15 @@ title: 行内代码
 在 CSS 中，使用 `text-align` 属性设置文本的水平对齐方式。 
 ```
 
-```html
-<p>在 CSS 中，使用 <code>text-align</code> 属性设置文本的水平对齐方式。</p>
-```
-
 <div class='exmp'>
   <div class='exmp-container'>
     <p>在 CSS 中，使用 <code>text-align</code> 属性设置文本的水平对齐方式。</p>
   </div>
 </div>
+
+```html
+<p>在 CSS 中，使用 <code>text-align</code> 属性设置文本的水平对齐方式。</p>
+```
 
 # 含有反引号的代码
 
@@ -48,12 +48,6 @@ title: 行内代码
 ``在 Markdown 中，`代码` 表示一段行内代码。``
 ```
 
-```html
-<p>
-  <code>在 Markdown 中，`代码` 表示一段行内代码。</code>
-</p>
-```
-
 <div class='exmp'>
   <div class='exmp-container'>
     <p>
@@ -61,6 +55,12 @@ title: 行内代码
     </p>
   </div>
 </div>
+
+```html
+<p>
+  <code>在 Markdown 中，`代码` 表示一段行内代码。</code>
+</p>
+```
 
 # 含有与字符和尖括号的代码
 

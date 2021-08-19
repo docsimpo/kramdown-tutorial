@@ -27,17 +27,17 @@ title: 链接
 [必应](https://cn.bing.com/ "每一天都从欣赏美景开始")的“每天一图”好漂亮！
 ```
 
-```html
-<p><a href="https://www.baidu.com/">百度</a>是全球最大的中文搜索引擎。</p>
-<p><a href="https://cn.bing.com/" title="每一天都从欣赏美景开始">必应</a>的“每天一图”好漂亮！</p>
-```
-
 <div class='exmp'>
   <div class='exmp-container'>
     <p><a href="https://www.baidu.com/">百度</a>是全球最大的中文搜索引擎。</p>
     <p><a href="https://cn.bing.com/" title="每一天都从欣赏美景开始">必应</a>的“每天一图”好漂亮！</p>
   </div>
 </div>
+
+```html
+<p><a href="https://www.baidu.com/">百度</a>是全球最大的中文搜索引擎。</p>
+<p><a href="https://cn.bing.com/" title="每一天都从欣赏美景开始">必应</a>的“每天一图”好漂亮！</p>
+```
 
 # 脚注式
 
@@ -95,27 +95,6 @@ title: 链接
 [5]: https://yandex.com/ "俄罗斯最大的搜索引擎"
 ```
 
-```html
-<p>2021 年全球五大搜索引擎：</p>
-<ol>
-  <li>
-    <a href="http://www.google.com/" title="不作恶">谷歌</a>
-  </li>
-  <li>
-    <a href="https://cn.bing.com/" title="每一天都从欣赏美景开始">必应</a>
-  </li>
-  <li>
-    <a href="https://www.yahoo.com/">雅虎</a>
-  </li>
-  <li>
-    <a href="https://www.baidu.com/" title="百度一下，你就知道">百度</a>
-  </li>
-  <li>
-    <a href="https://yandex.com/" title="俄罗斯最大的搜索引擎">Yandex</a>
-  </li>
-</ol>
-```
-
 <div class='exmp'>
   <div class='exmp-container'>
     <p>2021 年全球五大搜索引擎：</p>
@@ -139,6 +118,27 @@ title: 链接
   </div>
 </div>
 
+```html
+<p>2021 年全球五大搜索引擎：</p>
+<ol>
+  <li>
+    <a href="http://www.google.com/" title="不作恶">谷歌</a>
+  </li>
+  <li>
+    <a href="https://cn.bing.com/" title="每一天都从欣赏美景开始">必应</a>
+  </li>
+  <li>
+    <a href="https://www.yahoo.com/">雅虎</a>
+  </li>
+  <li>
+    <a href="https://www.baidu.com/" title="百度一下，你就知道">百度</a>
+  </li>
+  <li>
+    <a href="https://yandex.com/" title="俄罗斯最大的搜索引擎">Yandex</a>
+  </li>
+</ol>
+```
+
 # 脚注式的简写形式
 
 有些链接的链接文本本身就很适合作为链接名称。这时，可以使用简写形式。
@@ -155,12 +155,6 @@ title: 链接
 [百度]: https://www.baidu.com/ "百度一下，你就知道"
 ```
 
-```html
-<p>
-  <a href="https://www.baidu.com/" title="百度一下，你就知道">百度</a>一下，你就知道！
-</p>
-```
-
 <div class='exmp'>
   <div class='exmp-container'>
     <p>
@@ -168,6 +162,12 @@ title: 链接
     </p>
   </div>
 </div>
+
+```html
+<p>
+  <a href="https://www.baidu.com/" title="百度一下，你就知道">百度</a>一下，你就知道！
+</p>
+```
 
 # 快速创建网址和邮箱链接
 
@@ -184,13 +184,6 @@ title: 链接
 <yedda.wang@docsimpo.work>
 ```
 
-```html
-<p>
-  <a href="https://cn.bing.com/">https://cn.bing.com/</a><br>
-  <a href="mailto:yedda.wang@docsimpo.work">yedda.wang@docsimpo.work</a>
-</p>
-```
-
 <div class='exmp'>
   <div class='exmp-container'>
     <p>
@@ -199,5 +192,12 @@ title: 链接
     </p>
   </div>
 </div>
+
+```html
+<p>
+  <a href="https://cn.bing.com/">https://cn.bing.com/</a><br>
+  <a href="mailto:yedda.wang@docsimpo.work">yedda.wang@docsimpo.work</a>
+</p>
+```
 
 

@@ -18,12 +18,12 @@ HTML 元素中，不能使用 Markdown 语法。
 <abbr title="British Broadcasting Corporation">BBC</abbr> 总部位于伦敦。
 ```
 
-```html
-<p><abbr title="British Broadcasting Corporation">BBC</abbr> 总部位于伦敦。</p>
-```
-
 <div class='exmp'>
   <div class='exmp-container'>
     <p><abbr title="British Broadcasting Corporation">BBC</abbr> 总部位于伦敦。</p>
   </div>
 </div>
+
+```html
+<p><abbr title="British Broadcasting Corporation">BBC</abbr> 总部位于伦敦。</p>
+```
