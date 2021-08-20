@@ -14,7 +14,7 @@ Markdown 基本语法使用缩进来表示代码块，这种方法有时会让�
 
 ## 语法描述
 
-在代码块的上一行和下一行分别输入 3 个连续的反引号（`` ``` ``）或波浪号（`~~~`）。
+在代码块的上一行和下一行分别输入 3 个连续的反引号（```` ``` ````）或波浪号（`~~~`）。
 
 > 有些编辑器只支持反引号，有些只支持波浪号。使用前勿必亲手测试一下。
 
@@ -94,19 +94,16 @@ let myVariable = 123;
 
 <div class='exmp'>
 <div class='exmp-container'>
-<pre><code class="language-markdown"><div><spanclass="hljs-code">```
+<pre><code class="language-markdown">```
 let myVariable = 123;
-```</span>
-</div></code></pre>
+```</code></pre>
 </div>
 </div>
 
 
 ```html
-<pre><code class="language-markdown"><div>
-<span class="hljs-code">```
+<pre><code class="language-markdown">```
 let myVariable = 123;
-```</span>
-</div></code></pre>
+```</code></pre>
 ```
 
